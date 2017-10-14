@@ -7074,7 +7074,7 @@ Pad definition corrected 2006.05.15, librarian@cadsoft.de
 <part name="U501" library="Tova" deviceset="MCP2551" device=""/>
 <part name="C502" library="rcl_custom" deviceset="C-EU" device="0603-B-NOSILK" value="100n"/>
 <part name="R502" library="rcl_custom" deviceset="R-US_" device="0603-B-NOSILK" value="10"/>
-<part name="R501" library="rcl_custom" deviceset="R-US_" device="0603-B-NOSILK" value="NP"/>
+<part name="R501" library="rcl_custom" deviceset="R-US_" device="0603-B-NOSILK" value="120"/>
 <part name="C500" library="rcl_custom" deviceset="C-EU" device="0603-B-NOSILK" value="1n"/>
 <part name="C501" library="rcl_custom" deviceset="C-EU" device="0805-B-NOSILK" value="10u"/>
 <part name="U503" library="Tova" deviceset="ATMEL16/32/64M1" device="-AZ" value="ATMEL16/32/64M1-AI"/>

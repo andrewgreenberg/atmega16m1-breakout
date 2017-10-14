@@ -791,7 +791,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="18.923" y="16.891" size="0.635" layer="25" font="vector" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="22.352" y="16.764" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R501" library="rcl_custom" package="0603-B-NOSILK" value="NP" x="18.288" y="30.988" smashed="yes" rot="R270">
+<element name="R501" library="rcl_custom" package="0603-B-NOSILK" value="120" x="18.288" y="30.988" smashed="yes" rot="R270">
 <attribute name="NAME" x="19.812" y="29.845" size="0.635" layer="25" font="vector" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="16.383" y="31.623" size="1.27" layer="27" rot="R270"/>
 </element>
